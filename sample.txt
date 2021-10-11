@@ -1,7 +1,7 @@
 here are te stash changes This is my secoubd filr that i will goging to update.
 here i am testing the happy merge
 adding copywrite to the sample filw @copy2021
-welcome to our new fle having our team members define
+welcome to our new team members define
 shubham
 chirag
 sahil
@@ -9,3 +9,6 @@ deepak
 hemant
 vikash
 aman
+mohit 
+tarun
+sumya
