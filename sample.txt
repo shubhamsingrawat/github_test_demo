@@ -1,13 +1,4 @@
 here are te stash changes This is my secoubd filr that i will goging to update.
 here i am testing the happy merge
 adding copywrite to the sample filw @copy2021
-<<<<<<< HEAD
-welcome to our new team me<<<<< HEAD
-vikash
-aman
-mohit 
-tarun
-sumya
-=======
 
->>>>>>> realwork
